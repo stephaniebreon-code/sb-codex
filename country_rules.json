@@ -1,0 +1,30 @@
+{
+  "CA": {
+    "country": "Canada",
+    "currency": "CAD",
+    "de_minimis_value": 20,
+    "vat_threshold": 0,
+    "default_vat_rate": 0.05
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "de_minimis_value": 0,
+    "vat_threshold": 0,
+    "default_vat_rate": 0.20
+  },
+  "AU": {
+    "country": "Australia",
+    "currency": "AUD",
+    "de_minimis_value": 1000,
+    "vat_threshold": 0,
+    "default_vat_rate": 0.10
+  },
+  "DE": {
+    "country": "Germany",
+    "currency": "EUR",
+    "de_minimis_value": 0,
+    "vat_threshold": 0,
+    "default_vat_rate": 0.19
+  }
+}
